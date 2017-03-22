@@ -1,2 +1,0 @@
-# learnPython
-first test
